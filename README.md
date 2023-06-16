@@ -16,7 +16,7 @@ To write a python program for reading the csv file content.
 ### Step 5: Increase the maximum number of rows to display the entire DataFrame.
 
 ## PROGRAM:
-
+```
 ## Developed by: K.SANTHANA LAKSHMI
 ## REGISTER NUMBER: 212222240091
 
@@ -26,6 +26,7 @@ print(df.head(10))
 print(df.tail())
 print("rows",len(df.axes[0]))
 print("columns",len(df.axes[1]))
+```
 
 ## OUTPUT:
 ![image](https://github.com/santhanalakshmi04/Read-from-CSV/assets/119475762/02e55b19-7184-4ec2-8bad-d1d0ef700b0d)
